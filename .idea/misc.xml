@@ -9,6 +9,8 @@
         <option value="$PROJECT_DIR$/student/pom.xml" />
         <option value="$PROJECT_DIR$/shool/pom.xml" />
         <option value="$PROJECT_DIR$/school/pom.xml" />
+        <option value="$PROJECT_DIR$/wind-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/auth/pom.xml" />
       </list>
     </option>
   </component>
